@@ -1,2 +1,3 @@
 # hello-world
-It is a good idea.
+No one help me.So I need study for myself.
+
